@@ -3905,9 +3905,4 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd
 https://phdown.serv00.net/Smartv.php?id=Mnctv
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC5
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.080000,
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
