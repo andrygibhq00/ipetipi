@@ -234,7 +234,7 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/l1o4b4ghv8mfhxw/mentaritv.png" group-title="LOKAL HD", MENTARI TV HD
-#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPnsgz4FTt-x6kx6DK5s1yQCgYMvPZWaASb7bUGE9c-HZ35tK7Txp5z9E&s=10", SCTV 
@@ -267,9 +267,9 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://zozotv.xyz:443/live/zotv744/zxy086/45.ts
-#https://gasruktv.my.id/asx/live.mpd?id=205
-#http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
-#http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+https://gasruktv.my.id/asx/live.mpd?id=205
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
 
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (HD)
