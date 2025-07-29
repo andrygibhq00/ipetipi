@@ -193,30 +193,30 @@ http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 🟢
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 🟢
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 🔵
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 🟠
 https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png" group-title="LOKAL", Trans 7 ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
@@ -226,22 +226,22 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png" group-title="LOKAL", Trans TV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png" group-title="LOKAL", Trans TV 🔵
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png" group-title="LOKAL",Trans TV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png" group-title="LOKAL",Trans TV 🟠
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png" group-title="LOKAL",Trans TV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png" group-title="LOKAL",Trans TV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png" group-title="LOKAL",Trans TV ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png" group-title="LOKAL",Trans TV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
@@ -250,14 +250,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV 🟢
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV 🟢
 https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV 🔵
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
@@ -265,15 +265,15 @@ https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV ⚪
 https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png" group-title="LOKAL",ANTV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
@@ -283,27 +283,27 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL", MDTV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL", MDTV 🔵
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL",MDTV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL",MDTV 🟠
 https://cdn09jtedge.indihometv.com/bumper/bumperslate/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL",MDTV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL",MDTV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL", MDTV ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL", MDTV ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL", MDTV ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png" group-title="LOKAL", MDTV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
@@ -312,14 +312,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV 🟢
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV 🟢
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV 🔵
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
@@ -327,19 +327,19 @@ https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL",Metro TV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL",Metro TV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png" group-title="LOKAL", Metro TV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
 
@@ -348,35 +348,35 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne 🟢
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne 🟢
 https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne 🔵
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne 🟠
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL",TVOne 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL",TVOne 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
 
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png" group-title="LOKAL", TVOne ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 
@@ -385,60 +385,60 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV 🟢
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV 🟢
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV 🔵
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV 🟠
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL",Kompas TV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL",Kompas TV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV ⚪
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png" group-title="LOKAL", Kompas TV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-name="CNN Indonesia.id" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/CNN%20INDONESIA.png" group-title="LOKAL", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/CNN%20INDONESIA.png" group-title="LOKAL", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-name="CNN Indonesia.id" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/CNN%20INDONESIA.png" group-title="LOKAL", CNN Indonesia 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/CNN%20INDONESIA.png" group-title="LOKAL", CNN Indonesia 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="CNBC Indonesia.id" tvg-name="CNBC Indonesia.id" tvg-logo="https://iili.io/28yAlAN.png" group-title="LOKAL", CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/CNBC%20INDONESIA.png" group-title="LOKAL", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CNBC Indonesia.id" tvg-name="CNBC Indonesia.id" tvg-logo="https://iili.io/28yAlAN.png" group-title="LOKAL", CNBC Indonesia 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/CNBC%20INDONESIA.png" group-title="LOKAL", CNBC Indonesia 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -447,17 +447,17 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce016658680
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INEWS.png" group-title="LOKAL", iNews 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INEWS.png" group-title="LOKAL", iNews 🔵
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INEWS.png" group-title="LOKAL", iNews 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INEWS.png" group-title="LOKAL", iNews 🟠
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INEWS.png" group-title="LOKAL", iNews ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INEWS.png" group-title="LOKAL", iNews ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
@@ -467,18 +467,18 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/SINDO%20NEWS%20TV.png" group-title="LOKAL", Sindonews TV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/SINDO%20NEWS%20TV.png" group-title="LOKAL", Sindonews TV 🔵
 https://fta4-cdn-flr.visionplus.id/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/SINDO%20NEWS%20TV.png" group-title="LOKAL", Sindonews TV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/SINDO%20NEWS%20TV.png" group-title="LOKAL", Sindonews TV 🟠
 https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=17
-#EXTINF:-1 tvg-id="SEA Today.id" tvg-name="SEA Today.id" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/SEA%20TODAY.png" group-title="LOKAL", SEA Today 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/SEA%20TODAY.png" group-title="LOKAL", SEA Today 🔵
 https://fta2-cdn-flr.visionplus.id/out/v1/9cebfb76975f470d8d3dff0b3d27bdd9/index.mpd
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -487,28 +487,28 @@ https://fta2-cdn-flr.visionplus.id/out/v1/9cebfb76975f470d8d3dff0b3d27bdd9/index
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL", RTV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL", RTV 🔵
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL",RTV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL",RTV 🟠
 https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL",RTV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL",RTV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL",RTV ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL",RTV ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL",RTV ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png" group-title="LOKAL",RTV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 
@@ -517,73 +517,72 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Nasional 🟢
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Nasional 🟢
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=16
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL",TVRI Nasional 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL",TVRI Nasional 🔵
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL",TVRI Nasional 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL",TVRI Nasional 🟠
 https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL",TVRI 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL",TVRI 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Nasional ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Nasional ⚪
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Nasional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Nasional ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Nasional ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png" group-title="LOKAL", TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png" group-title="LOKAL", Nusantara TV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png" group-title="LOKAL", Nusantara TV 🟠
 https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png" group-title="LOKAL", Nusantara TV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png" group-title="LOKAL", Nusantara TV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png" group-title="LOKAL", Nusantara TV ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png" group-title="LOKAL", Nusantara TV ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png" group-title="LOKAL", Nusantara TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png" group-title="LOKAL", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -592,34 +591,34 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=15
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL", BTV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL", BTV 🔵
 https://fta4-cdn-flr.visionplus.id/out/v1/36d936f64cd2482ebc077567dbcf0919/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL", BTV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL", BTV 🟠
 https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL",BTV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL",BTV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL", BTV ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL", BTV ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL", BTV ᴸᴼᵂ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png" group-title="LOKAL", BTV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://investor.id/
 #EXTVLCOPT:http-origin=https://investor.id
-#EXTINF:-1 tvg-id="IDTV.id" tvg-name="IDTV" tvg-logo="https://iili.io/28yoeNn.png" group-title="LOKAL",IDTV (Beritasatu)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/IDTV.png" group-title="LOKAL",IDTV (Beritasatu)
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -627,16 +626,16 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.medcom.id/magnachannel/
 #EXTVLCOPT:http-origin=https://video.medcom.id/magnachannel
-#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MAGNA%20CHANNEL.png" group-title="LOKAL", Magna Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MAGNA%20CHANNEL.png" group-title="LOKAL", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MAGNA%20CHANNEL.png" group-title="LOKAL", Magna Channel ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MAGNA%20CHANNEL.png" group-title="LOKAL", Magna Channel ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=Magna_Channel
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="BNTV" tvg-name="BN Channel" tvg-logo="https://iili.io/JbtCoiu.png" group-title="LOKAL", BN Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BN%20CHANNEL.png" group-title="LOKAL", BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -644,14 +643,14 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV 🟢
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV 🟢
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2fdc5d5def7460a8dfb78492b66dd4f:a99645e65ce190e9556dda93be172cd4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV 🔵
 https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
@@ -660,31 +659,31 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV 🟠
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/DAAI%20TV.png" group-title="LOKAL", DAAI TV ⚪
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&userid=lite&chname=DAAI_TV
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/GARUDA%20TV.png" group-title="LOKAL", Garuda TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/GARUDA%20TV.png" group-title="LOKAL", Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/GARUDA%20TV.png" group-title="LOKAL", Garuda TV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/GARUDA%20TV.png" group-title="LOKAL", Garuda TV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -692,32 +691,32 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cf10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV 🟢
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV 🟢
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5dfa046b3bf14866a143470d9c8dd74d:97e354284ee7a67e5dafbce04e17c4c0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV 🔵
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV 🔵
 https://d2tjypxxy769fn.cloudfront.net/out/v1/1f05c642353a4a778d8a544837e1b49c/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/1f05c642353a4a778d8a544837e1b49c/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV 🟠
 https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV 🔴
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV ⚪
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAKTV.png" group-title="LOKAL", JakTV ⚪
 https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&userid=lite&chname=Jak_tv
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -795,7 +794,7 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&userid=li
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://iili.io/dA8evOF.png" group-title="LOKAL", Jawa Pos TV 🟠
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JAWA%20POS%20TV.png" group-title="LOKAL", Jawa Pos TV 🟠
 https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -808,7 +807,7 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://oxygentv.id/
 #EXTVLCOPT:http-origin=https://oxygentv.id
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/" group-title="LOKAL", Oxygen TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/OXYGEN%20TV.png" group-title="LOKAL", Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 
@@ -825,7 +824,7 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/" group-title="LOKAL" ,Antara TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTARA%20TV.png" group-title="LOKAL" ,Antara TV
 https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd
 https://cdn12jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
