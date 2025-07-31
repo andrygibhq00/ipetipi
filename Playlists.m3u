@@ -3114,22 +3114,22 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 000
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000000/1024.m3u8
+#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 001
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 100
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000100/1024.m3u8
+#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 101
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000101/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 500
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000500/1024.m3u8
+#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 501
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000501/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 750
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000750/1024.m3u8
+#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 751
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000751/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 1000
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2001000/1024.m3u8
+#EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 1001
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2001001/1024.m3u8
 
