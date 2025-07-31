@@ -3,6 +3,111 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 
+🔴🔴🔴🔴🔴🔴 [INDONESIA] 🔴🔴🔴🔴🔴🔴
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF: -1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RCTI.png", RCTI
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/GTV.png", GTV
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF: -1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MNC%20TV.png", MNCTV
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF: -1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INEWS.png", INEWS
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png", MDTV
+https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/SCTV.png", SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INDOSIAR.png", INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?app_type=web&userid=lite&chname=Indosiar
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MOJI.png", MOJI
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png", Trans 7 ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png", Trans TV ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png", ANTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png", Metro TV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png", TVOne
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png", Kompas TV
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png", RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png", TVRI
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png", Nusantara TV
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png", BTV
+https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MAGNA%20CHANNEL.png", Magna Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/JTV.png", JTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+
+
 🔴🔴🔴🔴🔴🔴 [LOKAL TV] 🔴🔴🔴🔴🔴🔴
 
 [LINE]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -4304,92 +4409,3 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000298/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #EXTINF:-1 group-title="RINGAN" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/", 299
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000299/1024.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF: -1 group-title="INDONESIA"tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RCTI.png", RCTI
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF: -1 group-title="INDONESIA"tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/GTV.png", GTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF: -1 group-title="INDONESIA"tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MNC%20TV.png", MNCTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF: -1 group-title="INDONESIA"tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INEWS.png", INEWS
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%207.png", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TRANS%20TV.png", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/SCTV.png", SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8?app_type=web&userid=lite&chname=Sctv
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/INDOSIAR.png", INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?app_type=web&userid=lite&chname=Indosiar
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MOJI.png", MOJI
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?app_type=web&userid=lite&chname=Moji
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/ANTV.png", ANTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MDTV.png", MDTV
-https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=net
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/METRO%20TV.png", Metro TV
-https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=metro-tv
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVONE.png", TVOne
-https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvone
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/KOMPAS%20TV.png", Kompas TV
-https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=kompas-tv
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/RTV.png", RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=rtv
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/TVRI.png", TVRI
-https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=tvri
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/NUSANTARA%20TV.png", Nusantara TV
-https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=nusantara-tv-ntv
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/BTV.png", BTV
-https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8?app_type=web&userid=lite&chname=btv
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/andrygibhq00/ipetipi/refs/heads/main/logo/MAGNA%20CHANNEL.png", Magna Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=magna-channel
